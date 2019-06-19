@@ -1,6 +1,10 @@
-# Angular8HttpclientTut
+# Angular8 Httpclient Example
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
+
+## Clone this project and run to test your side:
+
+* $ ` git clone https://github.com/mrkamlesh/angular8-httpclient-with-server && cd angular8-httpclient-with-server && npm i && ng serve -o`
 
 ## Development Fake JSON Backend Server
 
